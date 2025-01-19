@@ -1,4 +1,4 @@
-# Recipe Generator Chatbot with RAG (Retrieval-Augmented Generation)
+# Recipe Generator Chatbot with RAG (Retrieval-Augmented Generation) using Langflow
 
 **"AI Recipe Master: A Chatbot with RAG-Powered Recipe Retrieval"**
 
